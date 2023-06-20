@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+}
+#topThree ,#movieList{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+#movieDetails{
+  text-align: center;
+  margin-top: none;
+  margin-bottom: none;
+}
